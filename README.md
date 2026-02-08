@@ -1,6 +1,6 @@
 # MicroPipeline
 
-<img src="./assets/micropipeline.png" alt="MicroPipeline Illustration" width="400">
+<img src="micropip.png" alt="MicroPipeline Illustration" width="400">
 
 **MicroPipeline** is a lightweight, modular pipeline framework designed to make building and managing sequential data or task workflows simple and flexible.  
 
