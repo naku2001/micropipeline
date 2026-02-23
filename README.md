@@ -1,6 +1,6 @@
 # Distributed Pipeline Parallelism & Model Sharding
 
-Distributed Pipeline Parallelism is a lightweight PyTorch implementation that enables training models larger than a single GPU’s memory by sharding layers across multiple devices and executing them sequentially.
+Distributed Pipeline Parallelism is a lightweight PyTorch implementation that enables training models over more  than a single GPU’s memory by sharding layers across multiple devices and executing them sequentially.
 
 ---
 
