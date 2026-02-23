@@ -195,4 +195,4 @@ You can improve:
 
 ---
 
-If you'd like, I can also add a **MicroPipeline-style illustration diagram** (`micropp.png` equivalent) specifically for pipeline parallelism.
+
